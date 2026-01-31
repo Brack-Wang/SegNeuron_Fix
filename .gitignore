@@ -1,0 +1,37 @@
+# Model checkpoints
+*.ckpt
+*.pth
+*.pt
+*.h5
+*.weights
+*.bin
+
+# Cache directories
+**/caches/
+__pycache__/
+*.pyc
+*.pyo
+.cache/
+
+# Data files
+*.npy
+*.npz
+*.pkl
+*.n5/
+elf/data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
